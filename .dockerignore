@@ -1,0 +1,6 @@
+.git
+.github
+notebook
+data
+**/__pycache__
+*.pdb
